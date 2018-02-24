@@ -18,7 +18,7 @@
 - 可以进行双挖的算法：Blake2s/Keccak
 - 支持的显卡：AMD and NVIDIA
 
-![ETH/ETC](image/ETHDouble.png?raw=true)
+![ETH/ETC](IMAGE/ETHDouble.PNG?raw=true)
 
 ### ETH挖矿注意事项
 
@@ -45,7 +45,7 @@
 普通开挖和高速开挖使用不同的挖矿内核，普通开挖的稳定性更高，高速开挖比普通开挖算力高2%左右，但是稳定性稍差。
 > 高速开挖目前只支持NVIDIA显卡。
 
-![ZEC](image/ZEC.png)
+![ZEC](IMAGE/ZEC.PNG)
 
 ## XMR门罗币挖矿
 
@@ -53,7 +53,7 @@
 
 对于大多数显卡来讲，用门罗币挖矿的收益是不如ETH和ZEC的。不过XMR有一个特点还是值得关注的，主流的币种里，门罗币是极少的还能够使用CPU挖矿的。这主要还是由于其POW机制使用的算法。但是这种算法对内存的要求会比较高。**所以要挖门罗币的话，最好有12G以上的内存。**
 
-![XMR](image/MRX.png)
+![XMR](IMAGE/MRX.PNG)
 
 ### GPU挖矿
 
