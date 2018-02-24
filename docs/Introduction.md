@@ -18,7 +18,7 @@
 - 可以进行双挖的算法：Blake2s/Keccak
 - 支持的显卡：AMD and NVIDIA
 
-![ETH/ETC](image/ETHDouble.png)
+![ETH/ETC](image/ETHDouble.png?raw=true)
 
 ### ETH挖矿注意事项
 
