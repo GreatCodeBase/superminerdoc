@@ -27,10 +27,15 @@ Claymore作者本人的解释：
 把内核文件加入杀毒软件的白名单，以下以360杀毒软件为例
 
 1. 选择查看隔离文件
+
 ![ETH/ETC](IMAGE/AntiVirus1.PNG)
+
 2. 选择恢复
+
 ![ETH/ETC](IMAGE/AntiVirus2.PNG)
+
 3. 恢复并加入白名单
+
 ![ETH/ETC](IMAGE/AntiVirus3.PNG)
 
 最后还是引用Claymore作者的话结尾吧：
