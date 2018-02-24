@@ -4,7 +4,7 @@
 挖矿超人软件可以说是市面上现有性能最好，功能最强，稳定性和易用性最高的挖矿软件之一，我们团队着丰富的商业软件开发和设计经验。我们通过对现有的数十个挖矿内核进行了详细的研究，选择了挖矿效率最高的内核集成进这款软件。挖矿超人目前支持ETH/ETC（以太坊/以太经典）单挖以及双挖模式，ZEC零币和XMR门罗币挖矿。同时支持AMD和NAVIDIA显卡挖矿。我们同时提供使用文档和指导。
 
 ## 关于软件的收费
-挖矿超人软件的抽成和原版的内核程序一致。ETH/ETC单挖模式1%，ETH/ETC双挖模式1.5%，ZEC挖矿1%，XMR挖矿1%。实际上性能比较好的挖矿内核本身都是要抽成的，克莱默Calymore内核的原作者在文档中是这样描述的
+开发软件产品是非常耗费时间和精力的，而且一款软件产品的开发，测试和上线需要购买服务器和矿机进行长时间的测试，以确保提供给大家质量上乘的软件产品。 同时为了确保能够持续提供高质量，改进，升级和维护软件产品，开发团队是需要经费来维持的。挖矿超人软件的抽成和原版的内核程序一致。ETH/ETC单挖模式1%，ETH/ETC双挖模式1.5%，ZEC挖矿1%，XMR挖矿1%。实际上性能比较好的挖矿内核本身都是要抽成的，克莱默Calymore内核的原作者在文档中是这样描述的
 
 >This miner is free-to-use, however, current developer fee is 1% for Ethereum-only mining mode (-mode 1) and 1.5% for dual mining mode (-mode 0), every hour the miner mines for 36 or 54 seconds for developer. ....  if you don't agree with the dev fee - don't use this miner,
 
