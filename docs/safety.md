@@ -17,7 +17,7 @@
 
 Claymore作者本人的解释：
 >I write miners since 2014. Most of them are recognized as viruses by some paranoid antiviruses, perhaps because I pack my miners to protect them from disassembling, perhaps because some people include them into their botnets, or perhaps these antiviruses are not good, I don't know. For these years, a lot of people used my miners and nobody confirmed that my miner stole anything or did something bad. 
->我从2014年就开始写挖矿程序了。 绝大多数都会被偏执的杀毒软件识别为病毒，也许是因为我为了防止程序被破解，过度加壳的原因。也许是有人把它归类于僵尸网络。当然也有可能杀毒软件本省就是不好使：）。这些年来很多热呢用了我的挖矿软件，没有人报告它们有任何恶意行为。
+>我从2014年就开始写挖矿程序了。 绝大多数都会被偏执的杀毒软件识别为病毒，也许是因为我为了防止程序被破解，过度加壳的原因。也许是有人把它归类于僵尸网络。当然也有可能这些杀毒软件本身就是不好使：）。这些年来很多人都是用了我写的挖矿软件，没有人报告它们有任何恶意行为。
 
 ## 应对方案
 
