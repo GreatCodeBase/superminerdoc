@@ -10,5 +10,5 @@
 * 集成多种高性能挖矿内核，同时支持ETH双挖，ZEC零币和XMR门罗币挖矿
 * 完整的说明文档，不断改进。请期待后续版本的推出
 
-[Download](https://github.com/QingWei-Li/docsify/)
+[Download](https://pan.baidu.com/s/19uiERfjDV0OQ-5kfw2bCTw)
 [Get Started](#挖矿超人简介)
