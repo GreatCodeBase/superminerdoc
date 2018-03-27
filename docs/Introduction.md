@@ -66,7 +66,7 @@
 
 ## Nvida显卡多币种挖矿
 
-！[NVIDA](IMAGE/Nvidia.PNG)
+![NVIDA](IMAGE/Nvidia.PNG)
 内核采用ccminer，支持挖各种不同算法的山寨币。
 
 ## 系统自动重置
