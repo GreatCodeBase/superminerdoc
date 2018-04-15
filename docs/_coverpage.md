@@ -2,7 +2,7 @@
 
 ![logo](IMAGE/superman.ico)
 
-# 挖矿超人 <small>1.06</small>
+# 挖矿超人 <small>1.80 beta</small>
 
 > 高速，稳定和易用的挖矿软件
 
