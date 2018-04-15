@@ -5,4 +5,5 @@
 * [其他功能说明](other.md)
 * [软件安全性](safety.md)
 * [关于我们](aboutus.md)
+* [远程监控](monitor.md)
 * [帮助](help.md)
